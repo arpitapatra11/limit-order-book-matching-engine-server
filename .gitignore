@@ -1,0 +1,5 @@
+build/
+*.o
+run_tests
+demo
+tests_san
